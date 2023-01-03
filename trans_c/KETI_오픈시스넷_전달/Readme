@@ -1,0 +1,22 @@
+# 파일 경로 및 실행 방법
+1. 로그데이터 저장 경로에 ./Sensor_Monitoring 위치
+
+2. Sensor_Monitoring {second} 
+
+ex) ./Sensor_Monitoring 2 
+
+# OUTPUT 파일
+
+1. YYYYMMDD_sensor_log.csv
+시간, 센서 데이터 순으로 엑셀(.csv) 형태로 저장
+2. dmesgERROR.csv
+시간, dmesg ERROR 수준의 로그 (.csv) 형태로 저장
+3. dmesgWARN.csv
+시간, dmesg WARN 수준의 로그 (.csv) 형태로 저장
+4. sel_log.csv
+시간, BMC에 연결된 센서의 Critical or Error 로그 (.csv) 형태로 저장
+IPMI SEL의 형태를 따름
+
+# 주의사항
+
+1. BMC가 있는 서버에서만 정상 작동

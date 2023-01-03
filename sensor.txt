@@ -1,0 +1,55 @@
+CPU1 Temp        | 34.000     | degrees C  
+CPU2 Temp        | 39.000     | degrees C  
+PCH Temp         | 41.000     | degrees C  
+System Temp      | 28.000     | degrees C  
+Peripheral Temp  | 36.000     | degrees C  
+MB_10G Temp      | na         |            
+VRMCpu1 Temp     | 37.000     | degrees C  
+VRMCpu2 Temp     | 37.000     | degrees C  
+VRMP1ABC Temp    | 32.000     | degrees C  
+VRMP1DEF Temp    | 32.000     | degrees C  
+VRMP2ABC Temp    | 37.000     | degrees C  
+VRMP2DEF Temp    | 37.000     | degrees C  
+P1-DIMMA1 Temp   | 29.000     | degrees C  
+P1-DIMMA2 Temp   | na         |            
+P1-DIMMB1 Temp   | na         |            
+P1-DIMMC1 Temp   | na         |            
+P1-DIMMD1 Temp   | 29.000     | degrees C  
+P1-DIMMD2 Temp   | na         |            
+P1-DIMME1 Temp   | na         |            
+P1-DIMMF1 Temp   | na         |            
+P2-DIMMA1 Temp   | 35.000     | degrees C  
+P2-DIMMA2 Temp   | na         |            
+P2-DIMMB1 Temp   | na         |            
+P2-DIMMC1 Temp   | na         |            
+P2-DIMMD1 Temp   | 31.000     | degrees C  
+P2-DIMMD2 Temp   | na         |            
+P2-DIMME1 Temp   | na         |            
+P2-DIMMF1 Temp   | na         |            
+M2NVMeSSD Temp   | na         |            
+MBNVMeSSD Temp   | na         |            
+FAN1             | 2800.000   | RPM        
+FAN2             | 2700.000   | RPM        
+FAN3             | 2700.000   | RPM        
+FAN4             | na         |            
+FAN5             | na         |            
+FAN6             | na         |            
+FANA             | na         |            
+FANB             | na         |            
+12V              | 11.941     | Volts      
+5VCC             | 5.070      | Volts      
+3.3VCC           | 3.367      | Volts      
+VBAT             | 0x4        | discrete   
+Vcpu1            | 1.863      | Volts      
+Vcpu2            | 1.863      | Volts      
+VDimmP1ABC       | 1.214      | Volts      
+VDimmP1DEF       | 1.214      | Volts      
+VDimmP2ABC       | 1.214      | Volts      
+VDimmP2DEF       | 1.207      | Volts      
+5VSB             | 5.010      | Volts      
+3.3VSB           | 3.384      | Volts      
+1.8V PCH         | 1.845      | Volts      
+PVNN PCH         | 1.042      | Volts      
+1.05V PCH        | 1.078      | Volts      
+Chassis Intru    | 0x0        | discrete   
+PS1 Status       | 0x1        | discrete   
