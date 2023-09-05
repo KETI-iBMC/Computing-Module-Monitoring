@@ -1,3 +1,4 @@
+text 
 CPU1 Temp        | 34.000     | degrees C  
 CPU2 Temp        | 39.000     | degrees C  
 PCH Temp         | 41.000     | degrees C  
