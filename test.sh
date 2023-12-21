@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 var=0
 for (( ; ; ))
 do
